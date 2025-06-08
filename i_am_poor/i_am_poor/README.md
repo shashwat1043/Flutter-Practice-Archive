@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Learnt about **App Bar** ~ manipulating **Background Colors** and **Text Style**
+             **Body**    ~ **adding images** inside it
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
