@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Learnt about **App Bar** ~ manipulating **Background Colors** and **Text Style**
+Learnt about **App Bar** ~ manipulating **Background Colors** and **Text Style** ####
              **Body**    ~ **adding images** inside it
 
 
